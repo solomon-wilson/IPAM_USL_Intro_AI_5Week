@@ -23,13 +23,13 @@ This course reconciles two things that pull in different directions, exactly as 
  - **Submission checklist** closing every notebook.
  - **Route R12 thread throughout** — no campus, mobile-money, jollof, or generic "chat with AI" examples.
 
-> **The one deliberate relaxation:** the Malan Introductory tier normally restricts packages to `google-genai` only. That is impossible for a syllabus whose first eight days *are* scikit-learn and Keras. So we relax **only** the package restriction — scikit-learn and Keras are allowed where the syllabus needs them — and keep every other intro-tier rule strict.
+> **The one deliberate relaxation:** the Introductory tier normally restricts packages to `google-genai` only. That is impossible for a syllabus whose first eight days *are* scikit-learn and Keras. So we relax **only** the package restriction — scikit-learn and Keras are allowed where the syllabus needs them — and keep every other intro-tier rule strict.
 
 ---
 
 ## Mental-model ladder (one layer per day)
 
-The original Malan ladder (L1–L6) is LLM-centric. We extend it to L1–L15 so each classical-ML day also gets a single, named mental model. The notebook header always states its layer.
+The original ladder (L1–L6) is LLM-centric. We extend it to L1–L15 so each classical-ML day also gets a single, named mental model. The notebook header always states its layer.
 
 | Layer | Day | Concept |
 |-------|-----|---------|

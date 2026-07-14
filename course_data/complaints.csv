@@ -1,0 +1,401 @@
+ticket_id,timestamp,channel,route_id,raw_text,category,severity,is_urgent,resolved
+C0001,2025-03-14 12:08,SMS,R7,R7 never showed at the scheduled time again.,Delay,Low,False,True
+C0002,2025-03-24 23:20,WhatsApp,R12,Rubbish all over the floor of the R12 vehicle.,Cleanliness,High,True,False
+C0003,2025-02-09 02:35,WhatsApp,R12,The R12 vehicle had bald tyres and a broken door.,Safety,High,True,True
+C0004,2025-02-22 07:02,SMS,R3,R3 never showed at the scheduled time again.,Delay,Medium,False,True
+C0005,2025-02-17 13:40,SMS,R7,Operator OP-103 is collecting extra money and refusing change.,Overcharging,Low,False,False
+C0006,2025-03-18 11:05,WhatsApp,R14,"I left my phone on the R14 bus this afternoon, please help.",Lost Item,Medium,True,False
+C0007,2025-03-02 10:54,SMS,R12,Is R12 running during the public holiday?,Other,Low,False,True
+C0008,2025-02-28 13:49,WhatsApp,R9,Is R9 running during the public holiday?,Other,Medium,False,False
+C0009,2025-02-14 18:59,SMS,R3,Conductor on R3 charged me 2026 Le above the posted fare.,Overcharging,Medium,False,False
+C0010,2025-02-14 22:44,Call,R3,Conductor on R3 was rude and shouting at an elderly woman.,Staff Conduct,Medium,False,True
+C0011,2025-03-25 14:42,SMS,R12,Driver on R12 was speeding and overtaking dangerously.,Safety,High,True,False
+C0012,2025-03-25 16:32,SMS,R9,Conductor on R9 charged me 2505 Le above the posted fare.,Overcharging,Low,False,False
+C0013,2025-02-07 10:00,InPerson,R9,Why did I pay 2692 Le when the board says the fare is lower?,Overcharging,High,True,True
+C0014,2025-03-22 06:10,WhatsApp,R12,"Lost a bag of documents on R12, who do I contact?",Lost Item,Medium,True,False
+C0015,2025-03-21 21:20,Call,R12,Operator OP-104 staff refused to help with my luggage.,Staff Conduct,Low,False,False
+C0016,2025-03-05 14:59,Call,R14,The R14 vehicle had bald tyres and a broken door.,Safety,Medium,True,True
+C0017,2025-03-24 21:15,WhatsApp,R12,"Lost a bag of documents on R12, who do I contact?",Lost Item,High,True,False
+C0018,2025-03-24 17:41,WhatsApp,R7,Conductor on R7 was rude and shouting at an elderly woman.,Staff Conduct,High,True,False
+C0019,2025-02-21 20:40,Call,R7,"Waited almost an hour for R7, completely unacceptable.",Delay,Medium,False,True
+C0020,2025-03-15 04:52,SMS,R12,Why did I pay 2600 Le when the board says the fare is lower?,Overcharging,Medium,False,False
+C0021,2025-02-28 12:30,SMS,R12,Operator OP-107 staff refused to help with my luggage.,Staff Conduct,Medium,False,False
+C0022,2025-03-27 16:33,Call,R12,R12 never showed at the scheduled time again.,Delay,Medium,False,False
+C0023,2025-02-12 16:21,SMS,R14,The R14 vehicle had bald tyres and a broken door.,Safety,Medium,True,False
+C0024,2025-02-15 22:17,SMS,R21,Rubbish all over the floor of the R21 vehicle.,Cleanliness,Low,False,True
+C0025,2025-03-22 13:27,WhatsApp,R12,Driver on R12 was speeding and overtaking dangerously.,Safety,Medium,True,True
+C0026,2025-03-26 13:30,WhatsApp,R3,"Operator OP-108 let too many standing passengers, felt unsafe.",Safety,High,True,True
+C0027,2025-02-08 03:13,Call,R9,Driver on R9 was speeding and overtaking dangerously.,Safety,High,True,True
+C0028,2025-02-14 16:37,SMS,R9,"Bus on R9 was 41 minutes late this morning, no announcement.",Delay,Medium,False,False
+C0029,2025-02-25 05:24,SMS,R7,The R7 vehicle had bald tyres and a broken door.,Safety,High,True,False
+C0030,2025-02-16 12:13,Call,R7,Operator OP-111 is collecting extra money and refusing change.,Overcharging,Medium,False,True
+C0031,2025-03-02 14:02,WhatsApp,R12,"The R12 bus was filthy, seats torn and smelling.",Cleanliness,Medium,False,False
+C0032,2025-02-14 06:25,SMS,R12,Conductor on R12 charged me 2652 Le above the posted fare.,Overcharging,Low,False,False
+C0033,2025-03-18 18:22,SMS,R12,"Lost a bag of documents on R12, who do I contact?",Lost Item,High,True,False
+C0034,2025-02-07 11:41,Call,R21,Operator OP-106 is collecting extra money and refusing change.,Overcharging,High,True,False
+C0035,2025-03-08 01:51,Call,R12,"Bus on R12 was 13 minutes late this morning, no announcement.",Delay,Low,False,False
+C0036,2025-03-27 17:53,WhatsApp,R21,Conductor on R21 was rude and shouting at an elderly woman.,Staff Conduct,Medium,False,True
+C0037,2025-03-16 13:51,SMS,R12,"Bus on R12 was 42 minutes late this morning, no announcement.",Delay,Medium,False,False
+C0038,2025-03-16 18:14,Call,R9,"Bus on R9 was 52 minutes late this morning, no announcement.",Delay,Medium,False,True
+C0039,2025-02-18 03:37,Call,R12,"Bus on R12 was 40 minutes late this morning, no announcement.",Delay,High,True,True
+C0040,2025-02-27 08:07,WhatsApp,R14,"I left my phone on the R14 bus this afternoon, please help.",Lost Item,Medium,True,True
+C0041,2025-03-06 19:43,InPerson,R12,"Bus on R12 was 47 minutes late this morning, no announcement.",Delay,Medium,False,False
+C0042,2025-04-02 01:24,WhatsApp,R9,"Operator OP-117 let too many standing passengers, felt unsafe.",Safety,High,True,True
+C0043,2025-02-04 09:47,Call,R12,Driver on R12 was speeding and overtaking dangerously.,Safety,High,True,False
+C0044,2025-03-26 01:36,SMS,R12,Conductor on R12 charged me 2158 Le above the posted fare.,Overcharging,Medium,False,False
+C0045,2025-03-01 18:53,WhatsApp,R3,Operator OP-103 is collecting extra money and refusing change.,Overcharging,Medium,False,False
+C0046,2025-02-06 11:05,SMS,R14,"Lost a bag of documents on R14, who do I contact?",Lost Item,High,True,True
+C0047,2025-03-03 18:09,SMS,R3,Conductor on R3 was rude and shouting at an elderly woman.,Staff Conduct,Low,False,True
+C0048,2025-03-09 23:21,WhatsApp,R12,"Lost a bag of documents on R12, who do I contact?",Lost Item,High,True,False
+C0049,2025-03-11 02:24,SMS,R21,"Waited almost an hour for R21, completely unacceptable.",Delay,High,True,True
+C0050,2025-02-05 21:38,SMS,R14,R14 never showed at the scheduled time again.,Delay,Medium,False,False
+C0051,2025-03-23 01:53,InPerson,R7,"Lost a bag of documents on R7, who do I contact?",Lost Item,Medium,True,True
+C0052,2025-03-25 08:31,Call,R12,The R12 vehicle had bald tyres and a broken door.,Safety,High,True,False
+C0053,2025-02-09 05:47,Call,R21,Operator OP-102 staff refused to help with my luggage.,Staff Conduct,Low,False,True
+C0054,2025-03-06 00:08,SMS,R21,"Lost a bag of documents on R21, who do I contact?",Lost Item,Medium,True,True
+C0055,2025-02-21 15:55,SMS,R3,"Bus on R3 was 35 minutes late this morning, no announcement.",Delay,Medium,False,True
+C0056,2025-02-16 23:30,WhatsApp,R7,Rubbish all over the floor of the R7 vehicle.,Cleanliness,Low,False,False
+C0057,2025-02-07 01:47,WhatsApp,R21,The R21 vehicle had bald tyres and a broken door.,Safety,Medium,True,True
+C0058,2025-03-26 01:14,WhatsApp,R3,"Lost a bag of documents on R3, who do I contact?",Lost Item,High,True,True
+C0059,2025-03-30 01:54,SMS,R9,Rubbish all over the floor of the R9 vehicle.,Cleanliness,Medium,False,False
+C0060,2025-03-10 18:38,Call,R3,Is R3 running during the public holiday?,Other,Medium,False,True
+C0061,2025-02-28 00:54,Call,R7,"Waited almost an hour for R7, completely unacceptable.",Delay,Low,False,True
+C0062,2025-03-15 00:16,Call,R12,Driver on R12 was speeding and overtaking dangerously.,Safety,High,True,True
+C0063,2025-03-02 23:37,Call,R21,Conductor on R21 charged me 2398 Le above the posted fare.,Overcharging,Low,False,True
+C0064,2025-02-23 10:56,Call,R12,"Waited almost an hour for R12, completely unacceptable.",Delay,Low,False,False
+C0065,2025-04-04 03:30,InPerson,R12,"I left my phone on the R12 bus this afternoon, please help.",Lost Item,High,True,True
+C0066,2025-02-22 23:40,SMS,R7,"Bus on R7 was 47 minutes late this morning, no announcement.",Delay,Low,False,True
+C0067,2025-02-25 05:53,Call,R12,Operator OP-113 staff refused to help with my luggage.,Staff Conduct,Low,False,False
+C0068,2025-03-09 00:26,Call,R12,Conductor on R12 was rude and shouting at an elderly woman.,Staff Conduct,Medium,False,False
+C0069,2025-04-02 03:21,Call,R7,Rubbish all over the floor of the R7 vehicle.,Cleanliness,Medium,False,True
+C0070,2025-03-25 09:11,Call,R12,Is R12 running during the public holiday?,Other,Low,False,False
+C0071,2025-03-09 19:21,SMS,R7,Is R7 running during the public holiday?,Other,Medium,False,True
+C0072,2025-02-21 14:49,WhatsApp,R14,Driver on R14 was speeding and overtaking dangerously.,Safety,High,True,False
+C0073,2025-02-24 16:54,SMS,R21,Where can I get the timetable for R21?,Other,Medium,False,False
+C0074,2025-03-26 08:50,Call,R3,"The R3 bus was filthy, seats torn and smelling.",Cleanliness,Low,False,False
+C0075,2025-02-04 17:09,SMS,R9,R9 never showed at the scheduled time again.,Delay,High,True,False
+C0076,2025-03-28 07:13,Call,R9,Where can I get the timetable for R9?,Other,Low,False,False
+C0077,2025-02-12 00:57,WhatsApp,R14,Conductor on R14 was rude and shouting at an elderly woman.,Staff Conduct,Low,False,False
+C0078,2025-02-26 23:57,SMS,R9,R9 never showed at the scheduled time again.,Delay,Low,False,True
+C0079,2025-03-13 00:44,InPerson,R3,R3 never showed at the scheduled time again.,Delay,Medium,False,False
+C0080,2025-03-27 09:19,SMS,R12,R12 never showed at the scheduled time again.,Delay,Medium,False,False
+C0081,2025-02-11 18:37,SMS,R7,"Operator OP-120 let too many standing passengers, felt unsafe.",Safety,Medium,True,True
+C0082,2025-03-17 07:49,Call,R21,Is R21 running during the public holiday?,Other,Low,False,True
+C0083,2025-04-03 18:27,SMS,R14,"The R14 bus was filthy, seats torn and smelling.",Cleanliness,Medium,False,False
+C0084,2025-03-07 07:39,Call,R9,"Waited almost an hour for R9, completely unacceptable.",Delay,High,True,False
+C0085,2025-02-21 11:03,Call,R14,"Bus on R14 was 32 minutes late this morning, no announcement.",Delay,Low,False,True
+C0086,2025-02-26 04:53,WhatsApp,R14,Rubbish all over the floor of the R14 vehicle.,Cleanliness,Low,False,True
+C0087,2025-03-28 00:10,SMS,R7,Where can I get the timetable for R7?,Other,High,True,True
+C0088,2025-02-21 17:42,Call,R7,Why did I pay 835 Le when the board says the fare is lower?,Overcharging,Medium,False,False
+C0089,2025-02-13 00:18,SMS,R21,"Lost a bag of documents on R21, who do I contact?",Lost Item,High,True,True
+C0090,2025-03-27 23:39,SMS,R7,R7 never showed at the scheduled time again.,Delay,Medium,False,False
+C0091,2025-02-13 07:42,WhatsApp,R14,R14 never showed at the scheduled time again.,Delay,Medium,False,True
+C0092,2025-03-18 23:21,SMS,R14,Operator OP-108 is collecting extra money and refusing change.,Overcharging,Low,False,False
+C0093,2025-02-21 00:13,WhatsApp,R7,"I left my phone on the R7 bus this afternoon, please help.",Lost Item,High,True,True
+C0094,2025-02-19 13:08,Call,R3,Operator OP-109 staff refused to help with my luggage.,Staff Conduct,Low,False,False
+C0095,2025-03-08 18:15,Call,R12,Operator OP-106 staff refused to help with my luggage.,Staff Conduct,Low,False,True
+C0096,2025-02-17 18:53,WhatsApp,R12,"The R12 bus was filthy, seats torn and smelling.",Cleanliness,Low,False,True
+C0097,2025-03-21 19:00,SMS,R12,The R12 vehicle had bald tyres and a broken door.,Safety,High,True,True
+C0098,2025-04-01 09:11,WhatsApp,R3,"Bus on R3 was 23 minutes late this morning, no announcement.",Delay,Low,False,True
+C0099,2025-03-24 23:52,WhatsApp,R21,Operator OP-111 staff refused to help with my luggage.,Staff Conduct,Medium,False,False
+C0100,2025-03-29 17:12,WhatsApp,R14,The R14 vehicle had bald tyres and a broken door.,Safety,Medium,True,True
+C0101,2025-04-01 19:07,Call,R3,Conductor on R3 was rude and shouting at an elderly woman.,Staff Conduct,Low,False,False
+C0102,2025-03-06 02:45,Call,R12,Operator OP-104 staff refused to help with my luggage.,Staff Conduct,Low,False,True
+C0103,2025-02-12 02:22,Call,R3,Driver on R3 was speeding and overtaking dangerously.,Safety,Medium,True,False
+C0104,2025-03-02 03:22,InPerson,R21,"Bus on R21 was 10 minutes late this morning, no announcement.",Delay,Low,False,False
+C0105,2025-02-22 17:25,Call,R12,"Waited almost an hour for R12, completely unacceptable.",Delay,Medium,False,True
+C0106,2025-02-05 19:58,SMS,R9,"Operator OP-117 let too many standing passengers, felt unsafe.",Safety,Medium,True,True
+C0107,2025-04-03 23:35,Call,R7,Is R7 running during the public holiday?,Other,Low,False,True
+C0108,2025-04-01 14:41,Call,R3,"Bus on R3 was 27 minutes late this morning, no announcement.",Delay,Low,False,True
+C0109,2025-02-12 23:07,SMS,R3,Why did I pay 2943 Le when the board says the fare is lower?,Overcharging,Low,False,True
+C0110,2025-03-25 21:42,SMS,R14,Conductor on R14 was rude and shouting at an elderly woman.,Staff Conduct,Low,False,False
+C0111,2025-03-06 10:48,SMS,R14,"Waited almost an hour for R14, completely unacceptable.",Delay,High,True,False
+C0112,2025-04-01 09:10,SMS,R12,The R12 vehicle had bald tyres and a broken door.,Safety,High,True,False
+C0113,2025-02-25 22:25,SMS,R21,"The R21 bus was filthy, seats torn and smelling.",Cleanliness,Medium,False,True
+C0114,2025-03-28 00:19,Call,R12,Driver on R12 was speeding and overtaking dangerously.,Safety,High,True,True
+C0115,2025-02-09 15:45,SMS,R9,"Waited almost an hour for R9, completely unacceptable.",Delay,Medium,False,True
+C0116,2025-02-21 05:22,SMS,R14,"Operator OP-113 let too many standing passengers, felt unsafe.",Safety,High,True,True
+C0117,2025-03-07 05:54,Call,R3,Driver on R3 was speeding and overtaking dangerously.,Safety,High,True,True
+C0118,2025-02-25 03:12,Call,R7,"Bus on R7 was 14 minutes late this morning, no announcement.",Delay,Medium,False,True
+C0119,2025-02-17 03:15,SMS,R21,Is R21 running during the public holiday?,Other,Medium,False,False
+C0120,2025-03-05 00:58,WhatsApp,R12,"The R12 bus was filthy, seats torn and smelling.",Cleanliness,Low,False,False
+C0121,2025-02-19 07:46,Call,R12,Is R12 running during the public holiday?,Other,Low,False,False
+C0122,2025-02-08 13:18,SMS,R9,Operator OP-117 staff refused to help with my luggage.,Staff Conduct,Medium,False,False
+C0123,2025-02-20 11:08,SMS,R3,Why did I pay 570 Le when the board says the fare is lower?,Overcharging,Medium,False,True
+C0124,2025-03-20 04:43,SMS,R12,Operator OP-108 staff refused to help with my luggage.,Staff Conduct,Medium,False,False
+C0125,2025-02-05 06:51,Call,R14,Where can I get the timetable for R14?,Other,Low,False,True
+C0126,2025-03-09 03:59,InPerson,R12,"Waited almost an hour for R12, completely unacceptable.",Delay,High,True,True
+C0127,2025-02-09 15:59,WhatsApp,R7,"Waited almost an hour for R7, completely unacceptable.",Delay,Medium,False,False
+C0128,2025-03-17 05:15,WhatsApp,R12,R12 never showed at the scheduled time again.,Delay,Medium,False,False
+C0129,2025-03-23 14:45,WhatsApp,R21,"Bus on R21 was 26 minutes late this morning, no announcement.",Delay,Low,False,False
+C0130,2025-03-01 10:21,WhatsApp,R9,Operator OP-110 is collecting extra money and refusing change.,Overcharging,Low,False,False
+C0131,2025-03-14 20:17,SMS,R14,Operator OP-119 staff refused to help with my luggage.,Staff Conduct,Low,False,False
+C0132,2025-03-27 07:22,Call,R7,"Operator OP-109 let too many standing passengers, felt unsafe.",Safety,High,True,False
+C0133,2025-03-29 04:09,Call,R7,The R7 vehicle had bald tyres and a broken door.,Safety,High,True,True
+C0134,2025-03-15 06:32,Call,R12,"The R12 bus was filthy, seats torn and smelling.",Cleanliness,Medium,False,True
+C0135,2025-02-27 17:18,SMS,R7,"The R7 bus was filthy, seats torn and smelling.",Cleanliness,High,True,True
+C0136,2025-02-11 21:16,Call,R3,R3 never showed at the scheduled time again.,Delay,Medium,False,False
+C0137,2025-03-08 13:23,InPerson,R3,Operator OP-104 staff refused to help with my luggage.,Staff Conduct,High,True,False
+C0138,2025-02-16 01:37,Call,R21,The R21 vehicle had bald tyres and a broken door.,Safety,High,True,False
+C0139,2025-02-19 04:21,WhatsApp,R12,Operator OP-117 staff refused to help with my luggage.,Staff Conduct,Low,False,False
+C0140,2025-03-07 22:03,SMS,R21,Operator OP-113 staff refused to help with my luggage.,Staff Conduct,High,True,True
+C0141,2025-02-10 08:44,SMS,R9,Conductor on R9 charged me 1424 Le above the posted fare.,Overcharging,Medium,False,True
+C0142,2025-03-18 01:53,SMS,R9,Where can I get the timetable for R9?,Other,Medium,False,False
+C0143,2025-03-16 03:04,SMS,R12,Why did I pay 1093 Le when the board says the fare is lower?,Overcharging,Low,False,False
+C0144,2025-02-20 12:13,SMS,R12,R12 never showed at the scheduled time again.,Delay,High,True,False
+C0145,2025-02-13 23:57,Call,R9,"The R9 bus was filthy, seats torn and smelling.",Cleanliness,Medium,False,True
+C0146,2025-03-16 11:42,WhatsApp,R12,R12 never showed at the scheduled time again.,Delay,High,True,True
+C0147,2025-04-03 08:50,WhatsApp,R12,Driver on R12 was speeding and overtaking dangerously.,Safety,High,True,True
+C0148,2025-04-04 02:46,SMS,R21,Conductor on R21 was rude and shouting at an elderly woman.,Staff Conduct,Medium,False,True
+C0149,2025-03-02 21:59,WhatsApp,R12,Conductor on R12 was rude and shouting at an elderly woman.,Staff Conduct,Medium,False,False
+C0150,2025-03-25 10:41,SMS,R3,R3 never showed at the scheduled time again.,Delay,Low,False,True
+C0151,2025-02-03 07:32,InPerson,R12,Driver on R12 was speeding and overtaking dangerously.,Safety,High,True,True
+C0152,2025-02-10 16:58,Call,R21,"Waited almost an hour for R21, completely unacceptable.",Delay,Low,False,False
+C0153,2025-02-25 05:55,SMS,R7,R7 never showed at the scheduled time again.,Delay,Low,False,False
+C0154,2025-04-02 05:52,WhatsApp,R7,Operator OP-105 staff refused to help with my luggage.,Staff Conduct,High,True,True
+C0155,2025-04-04 03:48,SMS,R9,"Bus on R9 was 23 minutes late this morning, no announcement.",Delay,Low,False,True
+C0156,2025-03-23 03:20,WhatsApp,R7,"I left my phone on the R7 bus this afternoon, please help.",Lost Item,Medium,True,True
+C0157,2025-02-08 14:48,Call,R14,Operator OP-105 is collecting extra money and refusing change.,Overcharging,Medium,False,True
+C0158,2025-02-03 14:09,Call,R12,Why did I pay 514 Le when the board says the fare is lower?,Overcharging,High,True,True
+C0159,2025-03-05 05:04,WhatsApp,R12,"Operator OP-115 let too many standing passengers, felt unsafe.",Safety,Medium,True,True
+C0160,2025-02-27 02:01,Call,R9,Rubbish all over the floor of the R9 vehicle.,Cleanliness,Low,False,False
+C0161,2025-02-12 12:21,Call,R12,"I left my phone on the R12 bus this afternoon, please help.",Lost Item,Medium,True,True
+C0162,2025-03-15 07:01,InPerson,R12,Conductor on R12 was rude and shouting at an elderly woman.,Staff Conduct,High,True,True
+C0163,2025-03-19 03:12,SMS,R9,Conductor on R9 was rude and shouting at an elderly woman.,Staff Conduct,Low,False,False
+C0164,2025-03-06 06:53,WhatsApp,R21,"I left my phone on the R21 bus this afternoon, please help.",Lost Item,High,True,False
+C0165,2025-03-27 03:13,SMS,R7,Why did I pay 1865 Le when the board says the fare is lower?,Overcharging,High,True,False
+C0166,2025-03-14 19:55,InPerson,R9,"Lost a bag of documents on R9, who do I contact?",Lost Item,High,True,True
+C0167,2025-02-09 09:58,Call,R12,Operator OP-120 staff refused to help with my luggage.,Staff Conduct,Low,False,False
+C0168,2025-02-10 20:56,WhatsApp,R7,Operator OP-112 is collecting extra money and refusing change.,Overcharging,Low,False,True
+C0169,2025-02-12 17:12,SMS,R7,"Operator OP-113 let too many standing passengers, felt unsafe.",Safety,High,True,True
+C0170,2025-02-04 14:26,Call,R9,Rubbish all over the floor of the R9 vehicle.,Cleanliness,Medium,False,True
+C0171,2025-03-04 21:37,Call,R14,"The R14 bus was filthy, seats torn and smelling.",Cleanliness,Medium,False,True
+C0172,2025-03-31 08:37,WhatsApp,R9,"Operator OP-111 let too many standing passengers, felt unsafe.",Safety,High,True,True
+C0173,2025-02-24 10:42,InPerson,R12,Rubbish all over the floor of the R12 vehicle.,Cleanliness,Medium,False,False
+C0174,2025-02-21 20:16,Call,R3,R3 never showed at the scheduled time again.,Delay,Medium,False,True
+C0175,2025-02-18 18:04,Call,R14,"Lost a bag of documents on R14, who do I contact?",Lost Item,Medium,True,True
+C0176,2025-02-07 14:23,SMS,R9,Is R9 running during the public holiday?,Other,Low,False,True
+C0177,2025-02-25 11:33,WhatsApp,R9,Conductor on R9 was rude and shouting at an elderly woman.,Staff Conduct,Low,False,False
+C0178,2025-02-04 07:46,SMS,R12,R12 never showed at the scheduled time again.,Delay,Low,False,True
+C0179,2025-02-24 08:12,InPerson,R3,"Waited almost an hour for R3, completely unacceptable.",Delay,Low,False,False
+C0180,2025-03-25 01:00,WhatsApp,R9,Is R9 running during the public holiday?,Other,Low,False,True
+C0181,2025-02-04 15:36,WhatsApp,R7,"Operator OP-102 let too many standing passengers, felt unsafe.",Safety,Medium,True,True
+C0182,2025-02-13 16:52,Call,R9,Conductor on R9 was rude and shouting at an elderly woman.,Staff Conduct,High,True,True
+C0183,2025-03-23 17:35,Call,R9,"Waited almost an hour for R9, completely unacceptable.",Delay,Low,False,True
+C0184,2025-03-19 05:20,SMS,R12,Conductor on R12 was rude and shouting at an elderly woman.,Staff Conduct,Low,False,False
+C0185,2025-03-02 13:43,SMS,R12,Why did I pay 1561 Le when the board says the fare is lower?,Overcharging,Medium,False,False
+C0186,2025-03-18 06:06,SMS,R12,The R12 vehicle had bald tyres and a broken door.,Safety,High,True,False
+C0187,2025-02-10 08:58,SMS,R3,R3 never showed at the scheduled time again.,Delay,Medium,False,True
+C0188,2025-02-17 05:03,Call,R12,"Operator OP-111 let too many standing passengers, felt unsafe.",Safety,Medium,True,True
+C0189,2025-02-13 21:58,SMS,R12,R12 never showed at the scheduled time again.,Delay,Medium,False,True
+C0190,2025-02-16 22:57,Call,R9,Conductor on R9 charged me 967 Le above the posted fare.,Overcharging,Medium,False,True
+C0191,2025-03-03 01:10,SMS,R7,R7 never showed at the scheduled time again.,Delay,Low,False,False
+C0192,2025-03-23 11:07,Call,R14,Operator OP-116 staff refused to help with my luggage.,Staff Conduct,Low,False,True
+C0193,2025-02-05 12:30,SMS,R14,Operator OP-108 staff refused to help with my luggage.,Staff Conduct,Low,False,True
+C0194,2025-03-07 19:18,WhatsApp,R3,R3 never showed at the scheduled time again.,Delay,Low,False,True
+C0195,2025-02-28 16:01,SMS,R12,Why did I pay 2649 Le when the board says the fare is lower?,Overcharging,Medium,False,False
+C0196,2025-02-25 01:25,SMS,R12,R12 never showed at the scheduled time again.,Delay,Low,False,True
+C0197,2025-02-07 09:40,WhatsApp,R7,"The R7 bus was filthy, seats torn and smelling.",Cleanliness,Medium,False,False
+C0198,2025-02-16 21:55,InPerson,R12,"Waited almost an hour for R12, completely unacceptable.",Delay,Low,False,True
+C0199,2025-03-19 03:43,SMS,R14,R14 never showed at the scheduled time again.,Delay,Medium,False,True
+C0200,2025-02-21 17:34,WhatsApp,R7,R7 never showed at the scheduled time again.,Delay,Low,False,False
+C0201,2025-03-16 18:50,SMS,R21,Operator OP-110 staff refused to help with my luggage.,Staff Conduct,Low,False,False
+C0202,2025-02-16 18:13,SMS,R21,"Bus on R21 was 53 minutes late this morning, no announcement.",Delay,Low,False,True
+C0203,2025-03-29 06:36,InPerson,R14,"Bus on R14 was 45 minutes late this morning, no announcement.",Delay,Low,False,False
+C0204,2025-04-02 17:06,WhatsApp,R9,"Bus on R9 was 48 minutes late this morning, no announcement.",Delay,Medium,False,False
+C0205,2025-02-18 11:44,SMS,R7,R7 never showed at the scheduled time again.,Delay,Medium,False,True
+C0206,2025-02-19 18:27,SMS,R12,"The R12 bus was filthy, seats torn and smelling.",Cleanliness,Medium,False,True
+C0207,2025-03-27 11:00,Call,R7,"The R7 bus was filthy, seats torn and smelling.",Cleanliness,High,True,True
+C0208,2025-03-11 13:00,SMS,R14,Conductor on R14 was rude and shouting at an elderly woman.,Staff Conduct,Medium,False,False
+C0209,2025-02-17 15:14,SMS,R21,"Bus on R21 was 29 minutes late this morning, no announcement.",Delay,Low,False,True
+C0210,2025-03-06 22:15,WhatsApp,R21,R21 never showed at the scheduled time again.,Delay,Medium,False,False
+C0211,2025-02-04 21:31,Call,R12,Why did I pay 719 Le when the board says the fare is lower?,Overcharging,Low,False,False
+C0212,2025-03-26 06:38,SMS,R9,Where can I get the timetable for R9?,Other,Medium,False,True
+C0213,2025-02-10 13:02,SMS,R21,Conductor on R21 was rude and shouting at an elderly woman.,Staff Conduct,Medium,False,True
+C0214,2025-03-06 10:15,SMS,R12,"I left my phone on the R12 bus this afternoon, please help.",Lost Item,Medium,True,True
+C0215,2025-02-15 23:31,Call,R9,Why did I pay 1436 Le when the board says the fare is lower?,Overcharging,Low,False,True
+C0216,2025-02-04 16:01,SMS,R9,Driver on R9 was speeding and overtaking dangerously.,Safety,Medium,True,True
+C0217,2025-03-25 01:21,Call,R9,"I left my phone on the R9 bus this afternoon, please help.",Lost Item,High,True,True
+C0218,2025-02-04 21:48,SMS,R9,Driver on R9 was speeding and overtaking dangerously.,Safety,High,True,False
+C0219,2025-03-04 17:35,InPerson,R7,"Lost a bag of documents on R7, who do I contact?",Lost Item,High,True,True
+C0220,2025-02-14 15:35,SMS,R7,Operator OP-101 is collecting extra money and refusing change.,Overcharging,Low,False,False
+C0221,2025-02-27 09:02,WhatsApp,R21,The R21 vehicle had bald tyres and a broken door.,Safety,High,True,False
+C0222,2025-02-09 22:29,SMS,R7,Operator OP-103 is collecting extra money and refusing change.,Overcharging,Medium,False,False
+C0223,2025-03-19 02:19,SMS,R7,Operator OP-110 staff refused to help with my luggage.,Staff Conduct,Medium,False,False
+C0224,2025-04-01 17:05,Call,R12,"The R12 bus was filthy, seats torn and smelling.",Cleanliness,Medium,False,False
+C0225,2025-03-24 01:53,WhatsApp,R21,"Lost a bag of documents on R21, who do I contact?",Lost Item,Low,True,True
+C0226,2025-03-08 03:49,WhatsApp,R14,"Lost a bag of documents on R14, who do I contact?",Lost Item,High,True,True
+C0227,2025-02-03 13:58,Call,R14,Driver on R14 was speeding and overtaking dangerously.,Safety,High,True,False
+C0228,2025-02-26 15:07,SMS,R9,"Bus on R9 was 16 minutes late this morning, no announcement.",Delay,Medium,False,True
+C0229,2025-03-04 15:46,Call,R12,Rubbish all over the floor of the R12 vehicle.,Cleanliness,Low,False,True
+C0230,2025-03-24 19:16,SMS,R14,Where can I get the timetable for R14?,Other,Low,False,True
+C0231,2025-03-14 12:58,WhatsApp,R12,The R12 vehicle had bald tyres and a broken door.,Safety,High,True,True
+C0232,2025-02-26 03:50,InPerson,R7,Where can I get the timetable for R7?,Other,Low,False,False
+C0233,2025-02-15 04:29,SMS,R7,Conductor on R7 was rude and shouting at an elderly woman.,Staff Conduct,Low,False,True
+C0234,2025-02-07 22:08,SMS,R7,Conductor on R7 was rude and shouting at an elderly woman.,Staff Conduct,Low,False,True
+C0235,2025-03-22 20:13,SMS,R14,Driver on R14 was speeding and overtaking dangerously.,Safety,High,True,False
+C0236,2025-02-08 15:46,WhatsApp,R12,Conductor on R12 was rude and shouting at an elderly woman.,Staff Conduct,Low,False,False
+C0237,2025-04-01 20:39,InPerson,R12,"Bus on R12 was 43 minutes late this morning, no announcement.",Delay,Low,False,False
+C0238,2025-03-14 07:04,Call,R12,"Waited almost an hour for R12, completely unacceptable.",Delay,Medium,False,True
+C0239,2025-03-08 11:11,SMS,R3,Driver on R3 was speeding and overtaking dangerously.,Safety,Low,True,True
+C0240,2025-02-04 20:33,Call,R12,"Waited almost an hour for R12, completely unacceptable.",Delay,Low,False,True
+C0241,2025-02-07 14:54,SMS,R21,Rubbish all over the floor of the R21 vehicle.,Cleanliness,Low,False,True
+C0242,2025-02-12 07:23,Call,R12,"The R12 bus was filthy, seats torn and smelling.",Cleanliness,Medium,False,True
+C0243,2025-04-03 13:01,SMS,R12,Operator OP-115 staff refused to help with my luggage.,Staff Conduct,High,True,True
+C0244,2025-03-05 23:07,SMS,R7,R7 never showed at the scheduled time again.,Delay,Low,False,True
+C0245,2025-02-28 12:33,Call,R3,"Operator OP-113 let too many standing passengers, felt unsafe.",Safety,Medium,True,True
+C0246,2025-02-22 11:46,SMS,R9,R9 never showed at the scheduled time again.,Delay,Medium,False,True
+C0247,2025-02-10 13:16,SMS,R7,"Operator OP-104 let too many standing passengers, felt unsafe.",Safety,High,True,False
+C0248,2025-03-30 16:49,WhatsApp,R7,Is R7 running during the public holiday?,Other,Medium,False,True
+C0249,2025-04-02 13:44,WhatsApp,R7,"The R7 bus was filthy, seats torn and smelling.",Cleanliness,High,True,True
+C0250,2025-02-03 06:04,Call,R14,"Bus on R14 was 50 minutes late this morning, no announcement.",Delay,Low,False,True
+C0251,2025-02-20 22:56,Call,R14,Why did I pay 2727 Le when the board says the fare is lower?,Overcharging,High,True,True
+C0252,2025-02-25 04:35,WhatsApp,R3,Conductor on R3 charged me 2198 Le above the posted fare.,Overcharging,Low,False,False
+C0253,2025-03-19 12:18,SMS,R9,"I left my phone on the R9 bus this afternoon, please help.",Lost Item,High,True,True
+C0254,2025-03-16 20:56,SMS,R12,"Lost a bag of documents on R12, who do I contact?",Lost Item,Low,True,True
+C0255,2025-02-18 22:15,WhatsApp,R3,"Bus on R3 was 46 minutes late this morning, no announcement.",Delay,Medium,False,True
+C0256,2025-02-19 03:07,SMS,R14,"I left my phone on the R14 bus this afternoon, please help.",Lost Item,High,True,True
+C0257,2025-02-08 10:35,WhatsApp,R12,Driver on R12 was speeding and overtaking dangerously.,Safety,High,True,False
+C0258,2025-03-11 06:51,Call,R7,"The R7 bus was filthy, seats torn and smelling.",Cleanliness,Low,False,False
+C0259,2025-02-27 13:51,Call,R3,"Lost a bag of documents on R3, who do I contact?",Lost Item,Medium,True,True
+C0260,2025-03-31 06:10,SMS,R9,Why did I pay 1986 Le when the board says the fare is lower?,Overcharging,Medium,False,False
+C0261,2025-03-05 22:51,SMS,R12,Driver on R12 was speeding and overtaking dangerously.,Safety,Medium,True,False
+C0262,2025-03-09 22:05,Call,R7,R7 never showed at the scheduled time again.,Delay,Low,False,False
+C0263,2025-02-28 23:13,WhatsApp,R14,"Bus on R14 was 33 minutes late this morning, no announcement.",Delay,Low,False,False
+C0264,2025-02-24 14:29,WhatsApp,R7,Conductor on R7 charged me 1073 Le above the posted fare.,Overcharging,Low,False,True
+C0265,2025-02-14 14:53,SMS,R7,"Lost a bag of documents on R7, who do I contact?",Lost Item,Low,True,False
+C0266,2025-02-27 07:24,WhatsApp,R7,R7 never showed at the scheduled time again.,Delay,Medium,False,True
+C0267,2025-03-08 08:58,WhatsApp,R9,"Bus on R9 was 54 minutes late this morning, no announcement.",Delay,Low,False,True
+C0268,2025-02-14 22:43,InPerson,R21,"Operator OP-112 let too many standing passengers, felt unsafe.",Safety,High,True,True
+C0269,2025-03-27 07:17,SMS,R21,R21 never showed at the scheduled time again.,Delay,Low,False,True
+C0270,2025-03-14 04:48,Call,R9,"Bus on R9 was 28 minutes late this morning, no announcement.",Delay,Low,False,True
+C0271,2025-03-20 20:34,WhatsApp,R14,"Bus on R14 was 22 minutes late this morning, no announcement.",Delay,High,True,False
+C0272,2025-03-25 13:05,InPerson,R12,"Operator OP-103 let too many standing passengers, felt unsafe.",Safety,High,True,True
+C0273,2025-03-02 08:32,SMS,R9,R9 never showed at the scheduled time again.,Delay,Low,False,True
+C0274,2025-02-19 18:22,SMS,R12,Operator OP-120 staff refused to help with my luggage.,Staff Conduct,Low,False,True
+C0275,2025-03-17 02:46,SMS,R12,R12 never showed at the scheduled time again.,Delay,Low,False,False
+C0276,2025-03-13 21:28,SMS,R14,"Waited almost an hour for R14, completely unacceptable.",Delay,Medium,False,False
+C0277,2025-02-09 09:41,Call,R9,"I left my phone on the R9 bus this afternoon, please help.",Lost Item,Medium,True,True
+C0278,2025-02-07 10:22,SMS,R7,Where can I get the timetable for R7?,Other,High,True,False
+C0279,2025-03-05 09:02,WhatsApp,R3,Is R3 running during the public holiday?,Other,Low,False,True
+C0280,2025-03-02 19:15,SMS,R14,Operator OP-107 staff refused to help with my luggage.,Staff Conduct,Medium,False,True
+C0281,2025-02-12 07:12,SMS,R3,Conductor on R3 was rude and shouting at an elderly woman.,Staff Conduct,Low,False,False
+C0282,2025-03-04 00:54,SMS,R3,Rubbish all over the floor of the R3 vehicle.,Cleanliness,High,True,False
+C0283,2025-03-09 14:22,SMS,R7,"Waited almost an hour for R7, completely unacceptable.",Delay,High,True,True
+C0284,2025-03-03 10:48,SMS,R3,Why did I pay 2251 Le when the board says the fare is lower?,Overcharging,Medium,False,True
+C0285,2025-04-02 20:35,Call,R12,R12 never showed at the scheduled time again.,Delay,Medium,False,True
+C0286,2025-02-13 11:22,Call,R21,Operator OP-106 staff refused to help with my luggage.,Staff Conduct,Low,False,False
+C0287,2025-02-04 01:36,Call,R21,"Waited almost an hour for R21, completely unacceptable.",Delay,Low,False,False
+C0288,2025-03-26 02:47,SMS,R14,R14 never showed at the scheduled time again.,Delay,Low,False,True
+C0289,2025-02-14 02:42,WhatsApp,R14,"I left my phone on the R14 bus this afternoon, please help.",Lost Item,High,True,True
+C0290,2025-03-21 00:41,Call,R12,Why did I pay 2891 Le when the board says the fare is lower?,Overcharging,Medium,False,False
+C0291,2025-03-08 01:21,Call,R7,Conductor on R7 was rude and shouting at an elderly woman.,Staff Conduct,Medium,False,True
+C0292,2025-02-20 09:14,WhatsApp,R7,"Bus on R7 was 16 minutes late this morning, no announcement.",Delay,High,True,True
+C0293,2025-03-05 12:34,InPerson,R7,Conductor on R7 charged me 1818 Le above the posted fare.,Overcharging,Low,False,True
+C0294,2025-03-28 23:15,SMS,R21,Conductor on R21 was rude and shouting at an elderly woman.,Staff Conduct,Low,False,False
+C0295,2025-03-24 09:29,InPerson,R7,Conductor on R7 was rude and shouting at an elderly woman.,Staff Conduct,Low,False,True
+C0296,2025-03-20 10:25,SMS,R9,"Bus on R9 was 39 minutes late this morning, no announcement.",Delay,Low,False,False
+C0297,2025-03-25 08:27,InPerson,R14,Rubbish all over the floor of the R14 vehicle.,Cleanliness,Low,False,True
+C0298,2025-02-11 22:16,SMS,R12,"Bus on R12 was 47 minutes late this morning, no announcement.",Delay,Low,False,False
+C0299,2025-02-10 02:48,WhatsApp,R12,R12 never showed at the scheduled time again.,Delay,Medium,False,True
+C0300,2025-02-14 15:17,Call,R12,The R12 vehicle had bald tyres and a broken door.,Safety,High,True,True
+C0301,2025-04-04 04:09,SMS,R7,"Bus on R7 was 23 minutes late this morning, no announcement.",Delay,Low,False,True
+C0302,2025-02-22 05:23,SMS,R9,R9 never showed at the scheduled time again.,Delay,Medium,False,False
+C0303,2025-02-27 08:30,SMS,R3,"Lost a bag of documents on R3, who do I contact?",Lost Item,High,True,True
+C0304,2025-02-18 10:24,InPerson,R7,Is R7 running during the public holiday?,Other,Medium,False,True
+C0305,2025-03-12 00:14,SMS,R7,"I left my phone on the R7 bus this afternoon, please help.",Lost Item,Medium,True,False
+C0306,2025-03-23 17:14,Call,R12,R12 never showed at the scheduled time again.,Delay,Low,False,True
+C0307,2025-02-03 13:06,SMS,R7,R7 never showed at the scheduled time again.,Delay,Medium,False,False
+C0308,2025-03-03 21:16,Call,R12,R12 never showed at the scheduled time again.,Delay,Medium,False,False
+C0309,2025-03-15 05:30,SMS,R3,Why did I pay 862 Le when the board says the fare is lower?,Overcharging,Medium,False,False
+C0310,2025-03-05 05:34,WhatsApp,R12,"Lost a bag of documents on R12, who do I contact?",Lost Item,Low,True,True
+C0311,2025-04-03 15:45,SMS,R12,Conductor on R12 charged me 2832 Le above the posted fare.,Overcharging,Low,False,False
+C0312,2025-03-04 22:34,Call,R9,"I left my phone on the R9 bus this afternoon, please help.",Lost Item,Medium,True,False
+C0313,2025-03-05 16:12,WhatsApp,R12,"The R12 bus was filthy, seats torn and smelling.",Cleanliness,Medium,False,False
+C0314,2025-03-03 11:08,SMS,R12,"The R12 bus was filthy, seats torn and smelling.",Cleanliness,Medium,False,False
+C0315,2025-03-11 14:41,SMS,R3,"Bus on R3 was 24 minutes late this morning, no announcement.",Delay,Low,False,False
+C0316,2025-02-25 21:05,Call,R12,Where can I get the timetable for R12?,Other,Medium,False,False
+C0317,2025-02-09 02:46,SMS,R7,Operator OP-107 staff refused to help with my luggage.,Staff Conduct,Low,False,True
+C0318,2025-03-24 07:07,Call,R21,"Lost a bag of documents on R21, who do I contact?",Lost Item,Medium,True,True
+C0319,2025-03-06 14:57,SMS,R9,"Waited almost an hour for R9, completely unacceptable.",Delay,Low,False,True
+C0320,2025-02-25 19:19,Call,R7,"Lost a bag of documents on R7, who do I contact?",Lost Item,Medium,True,False
+C0321,2025-02-11 01:12,SMS,R9,Rubbish all over the floor of the R9 vehicle.,Cleanliness,Medium,False,True
+C0322,2025-03-30 17:31,SMS,R14,Operator OP-101 staff refused to help with my luggage.,Staff Conduct,Low,False,True
+C0323,2025-03-24 03:49,WhatsApp,R9,"Waited almost an hour for R9, completely unacceptable.",Delay,Medium,False,False
+C0324,2025-03-07 00:08,SMS,R3,"The R3 bus was filthy, seats torn and smelling.",Cleanliness,Low,False,False
+C0325,2025-03-10 17:48,SMS,R3,Operator OP-105 is collecting extra money and refusing change.,Overcharging,Medium,False,False
+C0326,2025-04-02 13:57,SMS,R14,"Waited almost an hour for R14, completely unacceptable.",Delay,Low,False,True
+C0327,2025-03-31 15:17,InPerson,R12,Conductor on R12 was rude and shouting at an elderly woman.,Staff Conduct,Medium,False,True
+C0328,2025-03-29 19:27,Call,R9,Driver on R9 was speeding and overtaking dangerously.,Safety,Low,True,True
+C0329,2025-03-29 08:08,WhatsApp,R12,Driver on R12 was speeding and overtaking dangerously.,Safety,Medium,True,True
+C0330,2025-03-13 06:18,Call,R9,"I left my phone on the R9 bus this afternoon, please help.",Lost Item,High,True,True
+C0331,2025-03-18 00:50,WhatsApp,R12,The R12 vehicle had bald tyres and a broken door.,Safety,Low,True,True
+C0332,2025-02-24 09:04,WhatsApp,R12,Rubbish all over the floor of the R12 vehicle.,Cleanliness,Low,False,True
+C0333,2025-03-16 05:06,SMS,R12,"Bus on R12 was 19 minutes late this morning, no announcement.",Delay,Medium,False,True
+C0334,2025-03-20 15:24,Call,R12,Conductor on R12 was rude and shouting at an elderly woman.,Staff Conduct,Low,False,True
+C0335,2025-03-05 08:42,Call,R7,Operator OP-104 staff refused to help with my luggage.,Staff Conduct,Low,False,True
+C0336,2025-03-23 16:03,InPerson,R7,Operator OP-111 staff refused to help with my luggage.,Staff Conduct,Low,False,True
+C0337,2025-03-15 05:29,InPerson,R21,The R21 vehicle had bald tyres and a broken door.,Safety,High,True,True
+C0338,2025-03-20 17:44,InPerson,R12,Is R12 running during the public holiday?,Other,Low,False,False
+C0339,2025-03-31 04:35,Call,R7,Conductor on R7 was rude and shouting at an elderly woman.,Staff Conduct,Medium,False,False
+C0340,2025-02-19 16:57,SMS,R21,The R21 vehicle had bald tyres and a broken door.,Safety,Medium,True,False
+C0341,2025-03-18 20:39,Call,R7,"I left my phone on the R7 bus this afternoon, please help.",Lost Item,High,True,True
+C0342,2025-03-28 07:46,WhatsApp,R9,"The R9 bus was filthy, seats torn and smelling.",Cleanliness,Low,False,False
+C0343,2025-03-08 21:25,Call,R7,"The R7 bus was filthy, seats torn and smelling.",Cleanliness,Low,False,False
+C0344,2025-03-16 16:03,WhatsApp,R21,Operator OP-119 staff refused to help with my luggage.,Staff Conduct,Medium,False,False
+C0345,2025-03-20 05:17,Call,R3,"Waited almost an hour for R3, completely unacceptable.",Delay,Low,False,False
+C0346,2025-03-24 06:57,Call,R14,Where can I get the timetable for R14?,Other,High,True,True
+C0347,2025-03-30 05:37,SMS,R14,"Operator OP-115 let too many standing passengers, felt unsafe.",Safety,Medium,True,True
+C0348,2025-03-09 01:43,WhatsApp,R12,Conductor on R12 was rude and shouting at an elderly woman.,Staff Conduct,Low,False,True
+C0349,2025-03-08 17:11,Call,R12,"Waited almost an hour for R12, completely unacceptable.",Delay,Low,False,True
+C0350,2025-02-25 13:03,WhatsApp,R3,Where can I get the timetable for R3?,Other,Medium,False,True
+C0351,2025-02-03 09:54,SMS,R9,Conductor on R9 charged me 2706 Le above the posted fare.,Overcharging,Medium,False,False
+C0352,2025-02-12 14:05,InPerson,R21,"Waited almost an hour for R21, completely unacceptable.",Delay,High,True,True
+C0353,2025-02-21 05:34,Call,R9,Where can I get the timetable for R9?,Other,Medium,False,True
+C0354,2025-02-08 09:01,Call,R21,"I left my phone on the R21 bus this afternoon, please help.",Lost Item,High,True,False
+C0355,2025-02-11 10:46,SMS,R14,Operator OP-102 staff refused to help with my luggage.,Staff Conduct,Low,False,True
+C0356,2025-03-23 13:51,WhatsApp,R3,"Operator OP-112 let too many standing passengers, felt unsafe.",Safety,High,True,False
+C0357,2025-03-01 02:56,SMS,R21,R21 never showed at the scheduled time again.,Delay,Low,False,True
+C0358,2025-03-04 14:41,SMS,R14,R14 never showed at the scheduled time again.,Delay,High,True,False
+C0359,2025-03-27 14:08,Call,R14,Why did I pay 1344 Le when the board says the fare is lower?,Overcharging,Medium,False,False
+C0360,2025-03-02 06:29,Call,R12,Operator OP-118 staff refused to help with my luggage.,Staff Conduct,Low,False,False
+C0361,2025-03-05 22:33,SMS,R9,"Operator OP-114 let too many standing passengers, felt unsafe.",Safety,High,True,False
+C0362,2025-03-09 17:48,SMS,R12,"Operator OP-120 let too many standing passengers, felt unsafe.",Safety,High,True,True
+C0363,2025-03-25 09:23,SMS,R21,"Bus on R21 was 50 minutes late this morning, no announcement.",Delay,Low,False,False
+C0364,2025-02-24 15:01,InPerson,R3,"I left my phone on the R3 bus this afternoon, please help.",Lost Item,High,True,True
+C0365,2025-02-19 09:26,Call,R9,Why did I pay 1793 Le when the board says the fare is lower?,Overcharging,Medium,False,True
+C0366,2025-02-13 00:56,Call,R12,Operator OP-103 is collecting extra money and refusing change.,Overcharging,High,True,False
+C0367,2025-03-10 17:00,InPerson,R3,Rubbish all over the floor of the R3 vehicle.,Cleanliness,Low,False,False
+C0368,2025-02-26 17:38,InPerson,R21,"Bus on R21 was 38 minutes late this morning, no announcement.",Delay,Medium,False,False
+C0369,2025-03-07 01:39,SMS,R21,Where can I get the timetable for R21?,Other,High,True,False
+C0370,2025-03-06 23:21,Call,R12,Rubbish all over the floor of the R12 vehicle.,Cleanliness,Medium,False,False
+C0371,2025-02-17 23:52,WhatsApp,R7,The R7 vehicle had bald tyres and a broken door.,Safety,Low,True,True
+C0372,2025-03-02 05:51,SMS,R9,Why did I pay 1875 Le when the board says the fare is lower?,Overcharging,Low,False,True
+C0373,2025-03-27 01:08,WhatsApp,R9,Where can I get the timetable for R9?,Other,High,True,False
+C0374,2025-02-21 17:39,Call,R7,Conductor on R7 charged me 992 Le above the posted fare.,Overcharging,Low,False,True
+C0375,2025-02-20 01:02,Call,R3,"Waited almost an hour for R3, completely unacceptable.",Delay,Low,False,False
+C0376,2025-02-25 07:05,SMS,R9,Operator OP-114 is collecting extra money and refusing change.,Overcharging,Low,False,True
+C0377,2025-02-03 08:52,SMS,R9,"Operator OP-120 let too many standing passengers, felt unsafe.",Safety,High,True,False
+C0378,2025-03-31 12:40,WhatsApp,R7,Conductor on R7 was rude and shouting at an elderly woman.,Staff Conduct,Medium,False,True
+C0379,2025-02-13 08:06,InPerson,R9,"Waited almost an hour for R9, completely unacceptable.",Delay,Low,False,False
+C0380,2025-02-10 10:04,SMS,R12,Operator OP-116 staff refused to help with my luggage.,Staff Conduct,Low,False,False
+C0381,2025-03-13 10:30,SMS,R12,Why did I pay 2269 Le when the board says the fare is lower?,Overcharging,Medium,False,True
+C0382,2025-02-22 00:34,Call,R9,R9 never showed at the scheduled time again.,Delay,Medium,False,False
+C0383,2025-03-26 02:07,SMS,R14,Operator OP-110 staff refused to help with my luggage.,Staff Conduct,High,True,True
+C0384,2025-03-05 13:44,SMS,R12,Operator OP-109 staff refused to help with my luggage.,Staff Conduct,High,True,True
+C0385,2025-02-26 05:56,Call,R9,The R9 vehicle had bald tyres and a broken door.,Safety,High,True,False
+C0386,2025-02-13 09:49,InPerson,R7,"Operator OP-120 let too many standing passengers, felt unsafe.",Safety,High,True,True
+C0387,2025-03-20 19:03,WhatsApp,R7,"I left my phone on the R7 bus this afternoon, please help.",Lost Item,High,True,True
+C0388,2025-03-28 02:16,Call,R9,Is R9 running during the public holiday?,Other,Medium,False,True
+C0389,2025-02-05 15:46,WhatsApp,R9,The R9 vehicle had bald tyres and a broken door.,Safety,High,True,True
+C0390,2025-02-23 09:30,Call,R9,"Bus on R9 was 41 minutes late this morning, no announcement.",Delay,Medium,False,False
+C0391,2025-04-02 15:19,Call,R9,Conductor on R9 charged me 1366 Le above the posted fare.,Overcharging,Medium,False,False
+C0392,2025-03-14 01:11,Call,R7,"Lost a bag of documents on R7, who do I contact?",Lost Item,High,True,True
+C0393,2025-03-21 19:35,Call,R14,"Lost a bag of documents on R14, who do I contact?",Lost Item,High,True,True
+C0394,2025-04-01 04:09,SMS,R12,R12 never showed at the scheduled time again.,Delay,Medium,False,True
+C0395,2025-02-28 07:43,SMS,R12,"Bus on R12 was 40 minutes late this morning, no announcement.",Delay,Medium,False,False
+C0396,2025-02-28 18:05,SMS,R21,"I left my phone on the R21 bus this afternoon, please help.",Lost Item,Medium,True,True
+C0397,2025-03-03 12:16,Call,R12,Conductor on R12 was rude and shouting at an elderly woman.,Staff Conduct,Low,False,False
+C0398,2025-02-18 08:21,SMS,R9,Where can I get the timetable for R9?,Other,Low,False,True
+C0399,2025-03-12 17:27,WhatsApp,R14,"Operator OP-110 let too many standing passengers, felt unsafe.",Safety,High,True,False
+C0400,2025-03-07 08:24,InPerson,R12,Conductor on R12 was rude and shouting at an elderly woman.,Staff Conduct,High,True,True

@@ -1,0 +1,21 @@
+operator_id,name,vehicle_count,region,avg_rating
+OP-101,Operator 101,6,Eastern,4.5
+OP-102,Operator 102,3,Western,3.4
+OP-103,Operator 103,8,Central,3.0
+OP-104,Operator 104,4,Peninsula,2.8
+OP-105,Operator 105,5,Western,3.3
+OP-106,Operator 106,4,Eastern,3.6
+OP-107,Operator 107,3,Eastern,3.1
+OP-108,Operator 108,6,Peninsula,4.5
+OP-109,Operator 109,4,Western,4.5
+OP-110,Operator 110,3,Peninsula,3.5
+OP-111,Operator 111,8,Peninsula,4.0
+OP-112,Operator 112,6,Western,3.0
+OP-113,Operator 113,7,Western,4.5
+OP-114,Operator 114,4,Central,3.6
+OP-115,Operator 115,6,Western,4.2
+OP-116,Operator 116,2,Central,3.9
+OP-117,Operator 117,7,Central,3.8
+OP-118,Operator 118,7,Eastern,3.2
+OP-119,Operator 119,8,Peninsula,3.7
+OP-120,Operator 120,7,Central,4.5

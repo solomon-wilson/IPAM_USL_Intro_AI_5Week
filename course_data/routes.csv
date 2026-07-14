@@ -1,0 +1,7 @@
+route_id,name,corridor,distance_km,num_stops,scheduled_minutes,base_fare_le
+R12,Wilberforce → CBD,Western,11.2,18,45,5000
+R7,Lumley → CBD,Western,9.4,15,40,4500
+R3,Waterloo → CBD,Eastern,28.0,24,80,8000
+R21,Goderich → Lumley,Peninsula,7.1,11,30,4000
+R9,Kissy → CBD,Eastern,12.8,19,50,5500
+R14,Hill Station → CBD,Central,8.7,13,38,4500

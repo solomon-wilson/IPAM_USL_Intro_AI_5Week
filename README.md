@@ -1,10 +1,12 @@
 # IPAM USL — Introduction to Artificial Intelligence (5-Week Short Course)
 
-**Tier:** Introductory · **Audience:** IPAM USL IT/IS Year 3 & 4 students
-**Mode:** Google Colab (zero-install) · **Running scenario:** SLPTA dispatch desk, **Route R12** (Wilberforce → CBD), operator OP-104, 25-minute delay
-**Facilitator:** Solomon Wilson MBCS
+**Tier:** Introductory · 
+**Audience:** IPAM USL IT/IS Year 3 & 4 students
+**Mode:** Google Colab (zero-install) · 
+**Running scenario:** SLPTA dispatch desk, **Route R12** (Wilberforce → CBD), operator OP-104, 25-minute delay
+**Facilitator:** Solomon Wilson - PhD Student, Computer Science | MBCS | MBA | BSc
 
-This repository delivers the IPAM *Introduction to Artificial Intelligence: Building Intelligent Systems* syllabus, rebuilt so that **every example uses synthetic SLPTA transit data** and every session follows CS50-style, first-principles pedagogy.
+This repository delivers the IPAM *Introduction to Artificial Intelligence: Building Intelligent Systems* syllabus, rebuilt so that **every example uses synthetic SLPTA transit data** and every session follows first-principles pedagogy.
 
 ---
 
@@ -13,7 +15,7 @@ This repository delivers the IPAM *Introduction to Artificial Intelligence: Buil
 This course reconciles two things that pull in different directions, exactly as agreed:
 
 1. **Content = the IPAM syllabus, followed faithfully.** The arc is classical ML → neural networks → LLM applications, using the real toolchain (scikit-learn, Keras/TensorFlow, Gemini, Gradio). Nothing from the approved syllabus is dropped.
-2. **Delivery = strict Introductory-tier discipline** (from the `malan-course-design` method):
+2. **Delivery = strict Introductory-tier discipline**:
  - **70 / 30 scaffold** — students *run, predict, and fill one blank*; no writing functions from scratch.
  - **Predict → then run** — a prediction checkpoint sits before every demo cell.
  - **One new concept per day** — a single mental-model layer per session.

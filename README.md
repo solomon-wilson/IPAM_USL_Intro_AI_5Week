@@ -4,7 +4,7 @@
 **Audience:** IPAM USL IT/IS Year 3 & 4 students
 **Mode:** Google Colab (zero-install) · 
 **Running scenario:** SLPTA dispatch desk, **Route R12** (Wilberforce → CBD), operator OP-104, 25-minute delay
-**Facilitator:** Solomon Wilson - PhD Student, Computer Science | MBCS | MBA | BSc
+**Facilitator:** Solomon Wilson MBCS | PhD Student, Computer Science | Deputy HOD Transport Planning & Operations | HOD, IT & Audit, SLPTA
 
 This repository delivers the IPAM *Introduction to Artificial Intelligence: Building Intelligent Systems* syllabus, rebuilt so that **every example uses synthetic SLPTA transit data** and every session follows first-principles pedagogy.
 
